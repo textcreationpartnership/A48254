@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letters from the lord generall his quarters, and the particulars thereof also, a great victorie at Malpesse, against 1000 of the Westmerland forces, of the Duke of Yorks regiment, and others ... : as also, a parley about the surrendring of Leverpoole, and the particulars thereof, and 2 ships of Irish rebels expected there : with other matters of great concernment, the particulars being examined, and printed according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48254</idno>
+            <idno type="STC">Wing L1782A</idno>
+            <idno type="STC">ESTC R30961</idno>
+            <idno type="EEBO-CITATION">11748145</idno>
+            <idno type="OCLC">ocm 11748145</idno>
+            <idno type="VID">48554</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48254)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48554)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1486:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Letters from the lord generall his quarters, and the particulars thereof also, a great victorie at Malpesse, against 1000 of the Westmerland forces, of the Duke of Yorks regiment, and others ... : as also, a parley about the surrendring of Leverpoole, and the particulars thereof, and 2 ships of Irish rebels expected there : with other matters of great concernment, the particulars being examined, and printed according to order.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Jane Coe ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Dated at Nantwich the 29 of August 1644" -- p. [7]</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48554:1"/>
+            <pb facs="tcp:48554:1" rendition="simple:additions"/>
+            <p>LETTERS FROM THE LORD <hi>GENERALL</hi> HIS QVARTERS, AND THE particulars thereof.</p>
+            <p>ALSO, A great Victorie at <hi>Malpeſse,</hi> againſt 1000. of the VVeſtmerland Forces, of the Duke of Yorks Regiment, and others; where were taken priſoners:
+<list>
+                  <item>The Major of the Duke of Yorks Regimen: of Horſe.</item>
+                  <item>2 Serjeant Majors more. 2 Captains, and other Officers.</item>
+                  <item>3 Collonels ſlain upon the place.</item>
+                  <item>2 Serjeant Majors, and 40 Gentlemen, and other Officers ſlain.</item>
+                  <item>200 Armes taken, and all the pillage of the Field.</item>
+                  <item>And all the reſt Routed, and fled.</item>
+               </list>
+            </p>
+            <p>AS ALSO, A Parley about the ſurrendring of <hi>Leverpoole,</hi> and the particulars thereof. And 2 Ships of Iriſh Rebels expected there: with other matters of great concernment.</p>
+            <p>The particulars being examined, and printed ac<g ref="char:EOLhyphen"/>cording to Order.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Jane Coe.</hi> 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:48554:2"/>
+            <pb facs="tcp:48554:2"/>
+            <head>A GREAT VICTORY obtained by Sir <hi>William Bruertons</hi> For<g ref="char:EOLhyphen"/>ces, againſt the Weſtmerland Forces, at <hi>Malpeſſe</hi> in <hi>Cheſhire,</hi> Auguſt 26. 1644.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T hath pleaſed God to give us a fur<g ref="char:EOLhyphen"/>ther victorie againſt the Enemie, by a ſmall handfull of Sir <hi>William Bruertons</hi> Forces; On Saterday laſt, being the 24. of Auguſt, 1644. there came a Trumpeter from the Enemie hither to <hi>Nantwich,</hi> Sir <hi>William Bruerton</hi> being then here in the Town: which Trumpeter coming to our Court of guard, and there it being demanded of him whither he went, and from whence he came: told the Of<g ref="char:EOLhyphen"/>ficer that he came from Prince <hi>Ruperts</hi> Forces, and had been Trumpeter to him, and was come to ſubmit to the Parliament; and had a buſineſſe of conſequence to declare to the Governor; and accordingly he was brought to Sir <hi>William Bruerton.</hi>
+            </p>
+            <p>And he declared unto Sir <hi>William Bruerton,</hi> that a party of the Weſtmerland forces were marched with Collonel <hi>Baynes,</hi> Collonel <hi>Conniers,</hi> Sir <hi>Marmaduke Langdale,</hi> the Princes Troop, and others, towards Cheſter by Malpeſſe, about 1000 men in all, to joyn with Prince <hi>Puperts</hi> forces there; whereupon Sir <hi>William Bruerton</hi> ſent out Scouts, and entertained this Trumpeter, and as you ſhall under<g ref="char:EOLhyphen"/>ſtond found this Relation true.</p>
+            <pb facs="tcp:48554:3"/>
+            <p>So Sir <hi>William Brue<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ron</hi> called a Councell of Warre to conſider upon this buſineſſe, and it was agreed, that what horſe and foot could be drawn forth, ſhould pre<g ref="char:EOLhyphen"/>ſently be ſent towards the Enemie; for the moſt of the horſe were at that preſent out upon another deſigne: and accordingly 8 Troops of Horſe, and 7 Colours of Foot Companies were drawn out on Sonday the 25 of Aug. at night, and the Horſe carried each of them a Musketeir behind them, and marched towards Malpeſſe: and on Monday morning at break of day, when they came with in 2. miles of Malpeſſe or thereabout, our foot alighted, and our Horſe drew themſelves into a bodie, and march<g ref="char:EOLhyphen"/>ed in batalia before the Foot.</p>
+            <p>In the mean time the Enemie having intelligence here<g ref="char:EOLhyphen"/>of, ſent out a forlorn-hope: but our Horſe wheeling a<g ref="char:EOLhyphen"/>bout, appeared not on that ſide of the Town which they expected; who diſcovering them, endeavoured to get be<g ref="char:EOLhyphen"/>tween the town and them, which they did: and falling upon them, killed, and took them all, and had their arms and pillage.</p>
+            <p>Then our horſe gave them an Alarm in the Town: whereupon the Enemie iſſued out, and marched againſt ours. Then Lieutenant Collonel <hi>Iones,</hi> and Captain <hi>Zan<g ref="char:EOLhyphen"/>chy</hi> led on Sir <hi>William Bruertons</hi> own Troops upon the forlorn hope, who charged the Enemie gallantly, and with great courage drew on the reſt. The Enemie came upon them firſt with 2. or 3. Charges, and indeed fought furiouſly; &amp; Sir <hi>Williams</hi> horſe made good their ground in deſpight of the Enemie. In which Collonel <hi>Iones</hi> was ſo valiant, that he was ſhot in the thigh, and his horſe ſhot under him, and had like to have been taken, but that <hi>George Parker,</hi> ſervant to Sir <hi>William Bruerton</hi> did valiant<g ref="char:EOLhyphen"/>ly fetch him off; and Captain <hi>Zanchy</hi> had his horſe ſhot under him: the Enemies loſſe we beleeve was great.</p>
+            <pb facs="tcp:48554:3"/>
+            <p>Then the Enemy ſent out a party to ambuskado the hedges, on both ſides the forlorne hope: which being diſcovered, Captaine <hi>Zanchy</hi> all this while making good a Lane, which hee held very advantageous, did hereupon leave the lane and made way for the reſt of our Forces to march up in a full body<g ref="char:punc">▪</g>
+            </p>
+            <p>Then the Enemy appeared in 5 ſeverall Brigads, who being ex<g ref="char:EOLhyphen"/>treamly vext that they had bin ſo baffled with ſuch a ſmall party, their Command marched up againſt us with a great deale of fierceneſſe, but few of them returned backe againe; for we kil<g ref="char:EOLhyphen"/>led, tooke, and totally routed them, as you may ſee by this inclo<g ref="char:EOLhyphen"/>ſed liſt which I hrve ſent you of the particulars thereof, we have taken Priſoners Serjeant Major <hi>Cromwell,</hi> who Commanded as Maior the Duke of <hi>Yorkes</hi> Regiment of Horſe, and alſo Serieant Maior <hi>Maxie</hi> of Sir <hi>Charles Lucas</hi> his Regiment, we have alſo taken Serieant Maior <hi>Crathorne</hi> of Collonel <hi>Ferhars</hi> Regiment, and Captain <hi>Thomas Clavering</hi> brother to Coll: <hi>Clavering</hi> of the North, who is dead at <hi>Kendall,</hi> Captain <hi>Barker,</hi> Lieutenant <hi>Mountain,</hi> and other Officers beſides about 20 other Priſoners, and two of the Maiors, and Lieutenant <hi>Mountain,</hi> are wounded, Collonel <hi>Baines</hi> and Coll: <hi>Conyers</hi> are both ſlaine, and alſo Ser<g ref="char:EOLhyphen"/>jeant Maior <hi>Heskey,</hi> and one of their Lieutenant Collonels, and ſome 40 Gentlemen and other under Officers, and betweene 30 or 40 common Souldiers; and we heare by one that is come from <hi>Cheſter,</hi> that one Serieant Maior that was ſlaine is brought to <hi>Cheſter</hi> to be buried, &amp; that Sir <hi>Marmaduke Langdale</hi> is there wounded with a ſhot in the back very dangerouſly, and alſo that Captain <hi>Harris</hi> is brought thither wounded, and divers others; and we heare that there are two other Serjant Majors of theirs flame, but that I cannot affirme, we have taken many Armes that were ſcattered up and down by the Enemy, and gained all the pillage in the field, to God be the praiſe.</p>
+            <p>Sir <hi>VVilliam Brereton</hi> had provided us more horſe if we had had need which came up that very night, but God be thanked we had no need of them, for God was pleaſed to give us this happy Victory before they came up to us.</p>
+            <pb facs="tcp:48554:4"/>
+            <p>Prince <hi>Rupert</hi> wee heare is gone over the Forreſt of <hi>Deane,</hi> and ſo to <hi>Briſtoll,</hi> where no doubt Sir <hi>Iohn Winter</hi> will doe him the beſt aſſiſtance he can, and we heare that 2000 <hi>Welch</hi> are following of Prince <hi>Rupert,</hi> but of theſe theſe things we ſhall heare more hereafter. In the meane time I cannot omit to declare the valour not onely of Lieutenant Collonel <hi>Iones</hi> and Captaine <hi>Zanchy</hi> as be<g ref="char:EOLhyphen"/>fore, but alſo how Captaine <hi>Church,</hi> and Captain <hi>Finch,</hi> behaved themſelves very gallantly in this Fight, and in<g ref="char:EOLhyphen"/>deed generally all our Forces to God be the praiſe who ſo bleſſed them, that with the ſaid 8. Troopes of Horſe, and 7 Companies of Foot, did kill, take, and rout 1000 of the Enemies, and they had a good mind to have fol<g ref="char:EOLhyphen"/>lowed them, but that it was too dangerous an attempt with ſo few Horſe to ſtraggle from our Foot, who in this buſineſſe did very good ſervice, in all this we had but one ſlaine, and the Enemy took not one Prſoner of our men.</p>
+            <p>We heare that Sir <hi>Iohn Meldrum</hi> ſtill proves Victori<g ref="char:EOLhyphen"/>ous in <hi>Lancaſhire,</hi> and hath againe taken 140 horſe and their riders; and that <hi>Liver-poole</hi> is now cloſely beſeid<g ref="char:EOLhyphen"/>ged, and the Town being ſummoned, the <hi>Lancoſhire</hi> for<g ref="char:EOLhyphen"/>ces before it had a very great expectation that it would be preſently ſurrendred, but it fell out otherwiſe, for the Malignants of the Town, with the Governour and Officers perſwaded the people to beleeve that there were 2. Ships with ſouldiers from <hi>Ireland</hi> comming thither, who would certainly be there in few days to ſtrengthen the Town, and ſo for preſent they ſtand out, but are cloſely beſeiged; and it is hoped will be forced in ſhort time to yeeld. Sir <hi>William Brereton,</hi> our Generall his care in this and all o<g ref="char:EOLhyphen"/>ther buſineſſe is exceedingg great, and with good diſcreti<g ref="char:EOLhyphen"/>on and judgement. He is to to call a Councell of Warre, and you will ſhortly heare further, if god be pleaſed to
+<pb facs="tcp:48554:4"/>bleſſe us, as he hath done wonderfully already, even above our expectation, to him be the praiſe.</p>
+            <closer>
+               <dateline>Dated at <hi>Nantwich</hi> 
+                  <date>the 29 of <hi>Auguſt</hi> 1644.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="text">
+            <head>
+               <hi>A List of the particulars of that great Victory obtained against the</hi> Weſtmorland <hi>Forces at</hi> Malpaſſe <hi>on Munday the</hi> 26 <hi>of Auguſt,</hi> 1644.</head>
+            <list>
+               <head>Taken Priſoners in this Fight.</head>
+               <item>MAjor <hi>Cromwell.</hi>
+               </item>
+               <item>Major <hi>Maxie.</hi>
+               </item>
+               <item>Major <hi>Crathorne.</hi>
+               </item>
+               <item>Captaine <hi>Thomas Clavering.</hi>
+               </item>
+               <item>Captaine <hi>Barker.</hi>
+               </item>
+               <item>Lieutenant <hi>Mountaine.</hi>
+               </item>
+               <item>Some other inferiour Officers,</item>
+               <item>Twenty common Souldiers.</item>
+            </list>
+            <list>
+               <head>Wounded in this Fight.</head>
+               <item>Sir <hi>Marmaduke Langdale.</hi>
+               </item>
+               <item>Two Serjeant Majors.</item>
+               <item>Captaine <hi>Harris.</hi>
+               </item>
+               <item>One Lieutenant, and other Commanders.</item>
+            </list>
+            <list>
+               <head>Slaine of the Enemies party.</head>
+               <item>Collonel <hi>Baines.</hi>
+               </item>
+               <item>Collonel <hi>Conyers.</hi>
+               </item>
+               <item>One Lieutenant Collonel.</item>
+               <item>Serjeant Major <hi>Heskit.</hi>
+               </item>
+               <item>One Serjeant Major beſides.</item>
+               <pb facs="tcp:48554:5"/>
+               <item>Forty Gentlemen, and other Officers. Beſides divers common Souldiers.</item>
+               <item>Taken alſo about 200 Armes, and all the Pillage of the Field.</item>
+            </list>
+            <p>Yeſterday there came letters from my Lord Generals quarters, which certfie that his Excellency doth ſtill make good his ground, and is in a very good condition, and expects Sir <hi>William VValler</hi> to fall in the reare of the Kings Army; as alſo that the Kings forces are very ma<g ref="char:EOLhyphen"/>ny, and the Gountry very baſe to my Lord Generall, yet notwithſtanding my Lord is very couragious, and his for<g ref="char:EOLhyphen"/>ces cheerfull, and make good the advantages ſtill which they had gained of the Enemy, and that they have many continued skirmiſhes, and for a battell, God of his infinite goodneſſe protect them.</p>
+            <pb facs="tcp:48554:5"/>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
